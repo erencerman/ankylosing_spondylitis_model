@@ -1,4 +1,4 @@
-<b>Keras Model To Estimate Presence Of Ankylosing Spondilitis in OCT<b>
+## Keras Model To Estimate Presence Of Ankylosing Spondilitis in O
 
 
 This is a python keras model to use. It has about 72% accuracy
